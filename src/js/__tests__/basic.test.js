@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import sum from '../basic';
 
 test('should sum', () => {
